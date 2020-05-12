@@ -12,6 +12,7 @@ import requests
 
 
 if __name__ == '__main__':
-    url = "http://www.baidu.com"
+    url = "http://www.baidu.com bew" \
+          ""
     r = requests.get(url)
     print(r.url)
