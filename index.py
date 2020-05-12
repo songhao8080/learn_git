@@ -14,3 +14,10 @@ if __name__ == '__main__':
     url = "htttfdsfdsfds"
     r = requests.get(url)
 
+
+
+if __name__ == '__main__':
+    url = "http://www.baidu.com bew" \
+          ""
+    r = requests.get(url)
+    print(r.url)
