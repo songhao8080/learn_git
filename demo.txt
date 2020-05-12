@@ -1,4 +1,4 @@
 # hello demo
-resr cmd
+resrcmd
 
-# edit in gitHub
+# edit in dfds gitHub
