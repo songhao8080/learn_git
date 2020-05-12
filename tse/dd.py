@@ -7,3 +7,8 @@ Blog:https://www.168seo.cn
 公众号:zeropython
 date:2020/5/12
 '''
+
+import requests
+
+if __name__ == '__main__':
+    requests.get()
