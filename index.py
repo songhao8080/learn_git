@@ -9,6 +9,9 @@ date:2020/5/12
 '''
 import pandas as pd
 import requests
+import pandas
+
+
 
 if __name__ == '__main__':
     url = "htttfdsfdsfds"
