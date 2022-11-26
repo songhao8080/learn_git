@@ -16,7 +16,7 @@ import pandas
 if __name__ == '__main__':
     url = "htttfdsfdsfds"
     r = requests.get(url)
-
+    print(sdfsdf)
 
 
 if __name__ == '__main__':
